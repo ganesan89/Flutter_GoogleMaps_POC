@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "163041386256",
+    "firebase_url": "https://praxis-electron-229709.firebaseio.com",
+    "project_id": "praxis-electron-229709",
+    "storage_bucket": "praxis-electron-229709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163041386256:android:dc9ff942222bf71c",
+        "android_client_info": {
+          "package_name": "com.example.flutterMaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163041386256-rckqicheu94skpf63fsi8reqit6rai91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktMhtJZg_ZMkZfA8svoV8wEvm1XMbE0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
